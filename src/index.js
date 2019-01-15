@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-import Timer from "/components/Timer";
+import Timer from "./Timer";
 
 function App() {
   return (
