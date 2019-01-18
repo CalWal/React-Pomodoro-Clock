@@ -27,6 +27,7 @@ class Timer extends React.Component {
     return (
       <div>
         <h1> React Pomodoro Timer </h1>
+        <h2> Coming Soon! </h2>
         <div className="settings">
           <h2>Session</h2>
           <h2>Break</h2>

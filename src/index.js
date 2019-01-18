@@ -4,11 +4,12 @@ import ReactDOM from "react-dom";
 import "./styles.css";
 
 import Timer from "./Timer";
+import Test from "./Test";
 
 function App() {
   return (
     <div className="App">
-      <Timer />;
+      <Test />
     </div>
   );
 }
