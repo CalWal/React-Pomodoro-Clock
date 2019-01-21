@@ -5,10 +5,12 @@ import "./styles.css";
 
 import Timer from "./Timer";
 import Test from "./Test";
+import Header from "/components/Header";
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <Test />
     </div>
   );

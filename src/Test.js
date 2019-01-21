@@ -3,8 +3,6 @@ import React from "react";
 var moment = require("moment");
 moment().format();
 
-const Header = () => <h1>Pomodoro Clock</h1>;
-
 const SetTimer = ({ type, label, value, handleClick }) => (
   <div className="SetTimer">
     <div id={`${type}-label`}>{label}</div>
@@ -127,7 +125,6 @@ class Test extends React.Component {
   render() {
     return (
       <div>
-        <Header />
         <div className="settings">
           <SetTimer
             type="break"
