@@ -7,18 +7,20 @@ const SetTimer = ({ type, label, value, handleClick }) => (
   <div className="SetTimer">
     <div id={`${type}-label`}>{label}</div>
     <div className="SetTimer-controls">
-      <button
-        id={`${type}-decrement`}
-        onClick={() => handleClick(false, `${type}Value`)}
-      >
-        &darr;
-      </button>
       <h1 id={`${type}-length`}>{value}</h1>
       <button
+        className="increment"
         id={`${type}-increment`}
         onClick={() => handleClick(true, `${type}Value`)}
       >
-        &uarr;
+        +
+      </button>
+      <button
+        className="decrement"
+        id={`${type}-decrement`}
+        onClick={() => handleClick(false, `${type}Value`)}
+      >
+        -
       </button>
     </div>
   </div>
