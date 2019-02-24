@@ -3,15 +3,14 @@ import ReactDOM from "react-dom";
 
 import "./styles.css";
 
-import Timer from "./Timer";
-import Test from "./Test";
-import Header from "/components/Header";
+import Pomodoro from "./Pomodoro";
+import Header from "./Header";
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <Test />
+      <Pomodoro />
     </div>
   );
 }
