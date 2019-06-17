@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/React-Pomodoro-Clock/static/js/runtime~main.06b7eea5.js"
   },
   {
-    "revision": "044ba585ae494871e1af",
-    "url": "/React-Pomodoro-Clock/static/js/main.044ba585.chunk.js"
+    "revision": "5dd057d5fc8d222dd11c",
+    "url": "/React-Pomodoro-Clock/static/js/main.5dd057d5.chunk.js"
   },
   {
     "revision": "1bc8757eaf44a38444e7",
     "url": "/React-Pomodoro-Clock/static/js/1.1bc8757e.chunk.js"
   },
   {
-    "revision": "044ba585ae494871e1af",
-    "url": "/React-Pomodoro-Clock/static/css/main.8e852a34.chunk.css"
+    "revision": "5dd057d5fc8d222dd11c",
+    "url": "/React-Pomodoro-Clock/static/css/main.e6b33f59.chunk.css"
   },
   {
-    "revision": "a71d834e4bea4e0f0c79685402c87898",
+    "revision": "aa944298ecd94b438eea9b028801065b",
     "url": "/React-Pomodoro-Clock/index.html"
   }
 ];

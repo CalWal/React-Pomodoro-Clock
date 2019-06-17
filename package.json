@@ -4,7 +4,7 @@
   "description": "Front End Libraries Projects - Build a Pomodoro Clock\n",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "http://CalWal.github.io/React-Pomodoro-Clock",
+  "homepage": "http://calwal.github.io/React-Pomodoro-Clock",
   "dependencies": {
     "babel": "6.23.0",
     "moment": "2.23.0",
@@ -22,7 +22,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
