@@ -1,10 +1,10 @@
 {
-  "name": "react-pomodoro-clock",
+  "name": "React-Pomodoro-Clock",
   "version": "1.0.0",
   "description": "Front End Libraries Projects - Build a Pomodoro Clock\n",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "http://calwal.github.io/react-pomodoro-clock",
+  "homepage": "http://calwal.github.io/React-Pomodoro-Clock",
   "dependencies": {
     "babel": "6.23.0",
     "moment": "2.23.0",
