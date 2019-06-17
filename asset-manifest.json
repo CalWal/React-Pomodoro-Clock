@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-pomodoro-clock/static/css/main.e6b33f59.chunk.css",
-  "main.js": "/react-pomodoro-clock/static/js/main.5dd057d5.chunk.js",
-  "main.js.map": "/react-pomodoro-clock/static/js/main.5dd057d5.chunk.js.map",
-  "static/js/1.1bc8757e.chunk.js": "/react-pomodoro-clock/static/js/1.1bc8757e.chunk.js",
-  "static/js/1.1bc8757e.chunk.js.map": "/react-pomodoro-clock/static/js/1.1bc8757e.chunk.js.map",
-  "runtime~main.js": "/react-pomodoro-clock/static/js/runtime~main.3369b338.js",
-  "runtime~main.js.map": "/react-pomodoro-clock/static/js/runtime~main.3369b338.js.map",
-  "static/css/main.e6b33f59.chunk.css.map": "/react-pomodoro-clock/static/css/main.e6b33f59.chunk.css.map",
-  "index.html": "/react-pomodoro-clock/index.html",
-  "precache-manifest.f85d020ed6c4fb22fc95b32538634cc4.js": "/react-pomodoro-clock/precache-manifest.f85d020ed6c4fb22fc95b32538634cc4.js",
-  "service-worker.js": "/react-pomodoro-clock/service-worker.js"
+  "main.css": "/React-Pomodoro-Clock/static/css/main.e6b33f59.chunk.css",
+  "main.js": "/React-Pomodoro-Clock/static/js/main.5dd057d5.chunk.js",
+  "main.js.map": "/React-Pomodoro-Clock/static/js/main.5dd057d5.chunk.js.map",
+  "static/js/1.1bc8757e.chunk.js": "/React-Pomodoro-Clock/static/js/1.1bc8757e.chunk.js",
+  "static/js/1.1bc8757e.chunk.js.map": "/React-Pomodoro-Clock/static/js/1.1bc8757e.chunk.js.map",
+  "runtime~main.js": "/React-Pomodoro-Clock/static/js/runtime~main.06b7eea5.js",
+  "runtime~main.js.map": "/React-Pomodoro-Clock/static/js/runtime~main.06b7eea5.js.map",
+  "static/css/main.e6b33f59.chunk.css.map": "/React-Pomodoro-Clock/static/css/main.e6b33f59.chunk.css.map",
+  "index.html": "/React-Pomodoro-Clock/index.html",
+  "precache-manifest.6bd0b19f1bac3f9dcebcfb351085bf12.js": "/React-Pomodoro-Clock/precache-manifest.6bd0b19f1bac3f9dcebcfb351085bf12.js",
+  "service-worker.js": "/React-Pomodoro-Clock/service-worker.js"
 }
